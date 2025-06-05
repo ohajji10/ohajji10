@@ -1,25 +1,21 @@
 # 👋 Hey there, I'm Oussama Hajji! Welcome to my GitHub profile 👋
 
-I'm an aspiring engineer and passionate learner currently pursuing my studies at Enseirb-Matmeca, Bordeaux, France. My academic journey revolves around mathematical modeling and numerical simulation, with a keen specialization in fluid mechanics and energy. 🚀
+I'm a recently graduated engineer in applied mathematics and physics, and I’ve just started a PhD in Particle Physics at the University of Amsterdam. My background is rooted in mathematical modeling and numerical simulation, and I’m now exploring the intersection of subatomic physics and fluid dynamics.
 
-## 👨‍🎓 About Me
-- 📚 Engineering student at Enseirb-Matmeca, Bordeaux, France.
-- 🔬 Specializing in fluid mechanics and energy.
-- 🌌 Fascinated by the world of science, particularly inspired by the great Richard Feynman.
-- 🧠 Currently delving into the exciting realm of scientific research, focusing on Maxwell's equations in a PINNs-related internship at the INRIA research center.
+## 👨‍🎓 Academic Background
+- 🎓 Engineering degree in Applied Mathematics for Physics.
+- 🧪 **Scientific Machine Learning Intern** at Thales Research & Technology (Mar–Sep 2024): Worked on integrating heterogeneous physical constraints into neural network architectures, enhancing Physics-Informed Neural Networks (PINNs) for solving Maxwell’s equations in electromagnetic simulations.
+- 🔬 Former research intern at INRIA, focusing on Maxwell's equations using PINNs.
+- 📍 Currently a PhD candidate at the Institute of Physics (UvA), working on positron particle tracking for fluid dynamics, in collaboration with Nikhef and Soft Matter Group.
 
-## 🌱 Currently Learning
-I'm always thirsty for knowledge! Currently, I'm diving deep into:
-- Advanced mathematical modeling techniques.
-- Numerical simulation methods.
-- Exploring the fusion of physics and machine learning.
+## 🌱 Learning Goals
+- Particle tracking and detection methods (e.g., PET/PEPT).
+- Experimental data analysis and computational fluid dynamics.
+- Contributing to open-source tools in scientific computing and numerical physics.
 
-## 💡 What I'm Up To
-I'm actively seeking opportunities to collaborate on projects that align with my interests. If you're working on anything related to fluid dynamics, mathematical modeling, energy systems, or scientific computing, I'd love to hear from you!
-
-## 📫 Get in Touch
-You can reach out to me through:
-- 📧 Email: hajji.oussama.mpsi@outlook.fr
+## 📫 Let's Connect
+Feel free to reach out if you're working on related topics or just want to discuss physics, code, or collaborative research:
+- 📧 Email: hajji.oussama.mpsi@outlook.fr  
 - 💼 [LinkedIn](https://www.linkedin.com/in/oussama-hajji-592614220/)
 
-Feel free to connect, collaborate, or just have a chat about anything related to engineering, science, or life's profound mysteries! 🌟
+Thanks for stopping by! 🚀
