@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Oussama Hajji! Welcome to my GitHub profile 👋
+# 👋 Welcome to my GitHub profile 👋
 
 I'm a recently graduated engineer in applied mathematics and physics, and I’ve just started a PhD in Particle Physics at the University of Amsterdam. My background is rooted in mathematical modeling and numerical simulation, and I’m now exploring the intersection of subatomic physics and fluid dynamics.
 
