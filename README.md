@@ -4,7 +4,7 @@ I'm a recently graduated engineer in applied mathematics and physics, and I’ve
 
 ## 👨‍🎓 Academic Background
 - 🎓 Engineering degree in Applied Mathematics for Physics.
-- 🧪 **Scientific Machine Learning Intern** at Thales Research & Technology (Mar–Sep 2024): Worked on integrating heterogeneous physical constraints into neural network architectures, enhancing Physics-Informed Neural Networks (PINNs) for solving Maxwell’s equations in electromagnetic simulations.
+- 🧪 Scientific Machine Learning Intern at Thales Research & Technology (Mar–Sep 2024): Worked on integrating heterogeneous physical constraints into neural network architectures, enhancing Physics-Informed Neural Networks (PINNs) for solving Maxwell’s equations in electromagnetic simulations.
 - 🔬 Former research intern at INRIA, focusing on Maxwell's equations using PINNs.
 - 📍 Currently a PhD candidate at the Institute of Physics (UvA), working on positron particle tracking for fluid dynamics, in collaboration with Nikhef and Soft Matter Group.
 
