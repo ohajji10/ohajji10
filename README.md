@@ -35,7 +35,7 @@ I’m also interested in building clean, useful tools for scientific research.
 ## 📫 Let’s connect
 
 - 📧 hajji.oussama.mpsi@outlook.fr  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/oussama-hajji16/])
+- 💼 [LinkedIn](https://www.linkedin.com/in/oussama-hajji16/)
 
 ---
 
